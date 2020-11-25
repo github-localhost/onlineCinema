@@ -22,3 +22,11 @@ npm install
 ```
 node server.js
 ```
+
+### API methods
+
+```
+
+see sources :D
+
+```
